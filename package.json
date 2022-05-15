@@ -2,7 +2,7 @@
   "name": "simple_system_test",
   "private": true,
   "dependencies": {
-    "@rails/ujs": "^6.0.0",
+    "@rails/ujs": "6.0.5",
     "@rails/webpacker": "4.2.2",
     "govuk-frontend": "^3.8.0",
     "stimulus": "^1.1.1"
